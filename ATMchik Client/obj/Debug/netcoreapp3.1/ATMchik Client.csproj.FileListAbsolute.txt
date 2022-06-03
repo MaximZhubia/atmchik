@@ -1,0 +1,129 @@
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.csprojAssemblyReference.cache
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.AssemblyInfoInputs.cache
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.AssemblyInfo.cs
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.csproj.CoreCompileInputs.cache
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.exe
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.deps.json
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.runtimeconfig.json
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.runtimeconfig.dev.json
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.pdb
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik.dll
+C:\Projects\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik.pdb
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.csproj.CopyComplete
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.dll
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.pdb
+C:\Projects\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.genruntimeconfig.cache
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.exe
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.deps.json
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.runtimeconfig.json
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.runtimeconfig.dev.json
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik Client.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\bin\Debug\netcoreapp3.1\ATMchik.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.csproj.AssemblyReference.cache
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.AssemblyInfoInputs.cache
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.AssemblyInfo.cs
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.csproj.CoreCompileInputs.cache
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.csproj.CopyComplete
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.dll
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.pdb
+C:\Users\mfyly\Desktop\ATMchik\ATMchik Client\obj\Debug\netcoreapp3.1\ATMchik Client.genruntimeconfig.cache
